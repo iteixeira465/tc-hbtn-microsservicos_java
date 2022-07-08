@@ -1,0 +1,18 @@
+Oque é springboot? -->
+
+Spring Boot é uma ferramenta que nasceu a partir do Spring, um framework desenvolvido para a plataforma Java baseado nos padrões de projetos, inversão de controle e injeção de dependência.  
+
+Porque usar SpringBoot? -->
+
+o maior ganho dessa ferramenta é a simplificação na hora de desenvolver aplicações Java. Na prática, essa ferramenta oferece série de vantagens, como, por exemplo, auxiliar nas configurações iniciais necessárias para que os desenvolvedores possam, enfim, começar a codificar, além de contribuir com projetos mais ágeis e organizados.
+
+Como é feita a adição de novas dependências (JPA, Hibernate, etc…) ? -->
+Através do arquivo pom.xml
+
+Na sua opinião, qual é a melhor IDE para trabalhar com o Spring Boot: Spring Tools Suites, IntelliJ IDEA, Eclipse ou NetBeans ?
+
+Passei um bom tempo usando o eclipse mas sem duvida acho o intelliJ melhor!
+
+O que é Spring Initializr?
+
+SPRING INITIALIZR fornece uma interface web bem simples para o usuário. Podendo gerar seu projeto a partir de uma estrutura de configurações pré-moldadas. São configurações de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
